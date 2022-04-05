@@ -1,0 +1,9 @@
+#Title of the project: Real Time Bus Tracker
+
+#Description of the project: Bus Map with mouse pointer coordinates
+
+#How to Run: Include map access token and appropriate html / js code
+
+#Roadmap of future improvements: Including coordinates that follow a marker or mouse cursor.
+
+#License information: Open source
